@@ -1,0 +1,25 @@
+form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn_modif{
+    background-color: green;
+    height: 3em;
+}
+
+.btn_suppr{
+    background-color: yellowgreen;
+    height: 3em;
+}
+
+
+
+
+.btn_ajout{
+    background-color: yellow;
+    height: 3em;
+    margin-top: 1em;
+}
