@@ -68,6 +68,8 @@ $req->execute(array(
   'taille' => $taille,
   'col' => $col ));
  ?>
+ <center><br><br>
+ <a href="index.php"><span>Retour Accueil</span></center>
 
 </body>
 
